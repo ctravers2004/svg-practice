@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" width="640" height="420">
+  <rect width="640" height="420" fill="#fce4ec"/>
+
+  <!-- grand piano top view-ish -->
+  <path d="M120 300 Q100 200 180 150 Q280 110 420 130 L420 210 L300 230 Q200 245 160 300 Z" fill="#111"/>
+  <path d="M180 150 Q280 110 420 130 L410 160 Q290 145 190 175 Z" fill="#333"/>
+  <rect x="120" y="300" width="60" height="14" rx="4" fill="#111"/>
+  <rect x="415" y="300" width="14" height="70" fill="#111"/>
+  <rect x="130" y="314" width="14" height="70" fill="#111"/>
+  <!-- keys -->
+  <rect x="300" y="230" width="130" height="20" fill="#fff" stroke="#222"/>
+  <g fill="#111">
+    <rect x="318" y="230" width="8" height="12"/>
+    <rect x="342" y="230" width="8" height="12"/>
+    <rect x="390" y="230" width="8" height="12"/>
+    <rect x="414" y="230" width="8" height="12"/>
+  </g>
+
+  <!-- cat sitting on bench -->
+  <rect x="310" y="330" width="110" height="14" rx="6" fill="#795548"/>
+  <rect x="322" y="344" width="10" height="50" fill="#5d4037"/>
+  <rect x="398" y="344" width="10" height="50" fill="#5d4037"/>
+  <ellipse cx="368" cy="295" rx="34" ry="30" fill="#fb8c00"/>
+  <circle cx="368" cy="252" r="20" fill="#fb8c00"/>
+  <path d="M352 244 L347 224 L363 237 Z" fill="#fb8c00"/>
+  <path d="M384 244 L389 224 L373 237 Z" fill="#fb8c00"/>
+  <circle cx="360" cy="253" r="3" fill="#111"/>
+  <circle cx="376" cy="253" r="3" fill="#111"/>
+  <path d="M364 260 L372 260 L368 266 Z" fill="#f48fb1"/>
+  <path d="M352 290 Q340 265 330 258" fill="none" stroke="#fb8c00" stroke-width="10" stroke-linecap="round"/>
+  <path d="M384 290 Q398 265 412 258" fill="none" stroke="#fb8c00" stroke-width="10" stroke-linecap="round"/>
+  <path d="M398 300 Q430 310 428 340" fill="none" stroke="#fb8c00" stroke-width="10" stroke-linecap="round"/>
+
+  <text x="460" y="240" font-size="44" fill="#ad1457">♪</text>
+  <text x="510" y="200" font-size="54" fill="#ad1457">♫</text>
+</svg>
